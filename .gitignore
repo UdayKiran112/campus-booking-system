@@ -1,2 +1,11 @@
 backend/.env.example
-backend/SE/
+backend/SE_Lab/
+backend/campus_booking/__pycache__/
+backend/users/__pycache__/
+backend/venues/__pycache__/
+backend/bookings/__pycache__/
+backend/bookings/migrations/
+backend/users/migrations/
+backend/venues/migrations/
+frontend/node_modules/
+backend/.env
