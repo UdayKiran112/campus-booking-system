@@ -1,0 +1,32 @@
+[
+  {
+    "model": "booking.venue",
+    "pk": 1,
+    "fields": {
+      "name": "DST Auditorium",
+      "location": "Library Block",
+      "capacity": 500,
+      "price_per_hour": 2000
+    }
+  },
+  {
+    "model": "booking.venue",
+    "pk": 2,
+    "fields": {
+      "name": "Seminar Hall",
+      "location": "Block A",
+      "capacity": 150,
+      "price_per_hour": 1000
+    }
+  },
+  {
+    "model": "booking.venue",
+    "pk": 3,
+    "fields": {
+      "name": "Conference Room",
+      "location": "Admin Block",
+      "capacity": 50,
+      "price_per_hour": 500
+    }
+  }
+]
